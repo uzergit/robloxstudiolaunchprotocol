@@ -4,6 +4,8 @@
 // @version      6.7
 // @description  Auto-opens AI Fruit Love Island Cart Ride (our top-tier game) and closes the tab
 // @match        https://create.roblox.com/dashboard/creations/experiences/9926490675/*
+// @updateURL    https://raw.githubusercontent.com/uzergit/robloxstudiolaunchprotocol/main/userscript.user.js
+// @downloadURL  https://raw.githubusercontent.com/uzergit/robloxstudiolaunchprotocol/main/userscript.user.js
 // @grant        window.close
 // @run-at       document-idle
 // ==/UserScript==

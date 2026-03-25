@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Roblox - AI-FLI Game Editor Launcher
 // @namespace    http://tampermonkey.net/
-// @version      6.8
+// @version      6.9
 // @description  Auto-opens AI Fruit Love Island Cart Ride (our top-tier game) and closes the tab
 // @match        https://create.roblox.com/dashboard/creations/experiences/9926490675/*
 // @updateURL    https://raw.githubusercontent.com/uzergit/robloxstudiolaunchprotocol/main/userscript.user.js

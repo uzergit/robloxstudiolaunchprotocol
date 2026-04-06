@@ -1,1 +1,1 @@
-This is uselss if you didnt get sent this.
+This is useless if you didnt get sent this.
